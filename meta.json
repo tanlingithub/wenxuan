@@ -1,0 +1,16 @@
+{
+	"name": "wenxuan-console",
+	"version": "1.0.0",
+	"title": "文轩管理后台",
+	"description": "",
+	"type": "template",
+	"platform": [
+		"PC"
+	],
+	"homePage": "/materials/24/dist9b3a225369ffce7144140cd3ce9303bb/index.html",
+	"category": "管理后台",
+	"screenshot": "/screenshots/9b3a225369ffce7144140cd3ce9303bb.png",
+	"path": "templates/WenxuanConsole",
+	"origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+	"hash": "f9b7c8bb4a4498e13ffd2b5dd14d39e7"
+}

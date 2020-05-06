@@ -1,0 +1,19 @@
+{
+  "appKey": "WD52MQ6dc4NeUfatRRJGWWlqZEVQpujG",
+  "appSecret": "HjYznbswQx4dRAqs25HC3piTnxVlO18Z",
+  "projectId": "df2de34fc546668a898a9b268f9a0878",
+  "id": 474,
+  "name": "test-wenxuan",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "测试文轩管理后台",
+  "git": {
+    "url": "https://github.com/tanlingithub/wenxuan.git",
+    "isPrivate": 0,
+    "username": "3082902468@qq.com",
+    "password": "e6pji8Nwzpj0TSwQqz8AR10+tKouIIdW2/jf4Hitm1IvaiHAStXRZH0G2QqM65HJtsBQBPr6kuvqrLgwqIWdRQ=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
